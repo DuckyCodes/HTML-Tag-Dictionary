@@ -1,0 +1,139 @@
+HTML Tag Dictionary 
+
+<a>: This makes a hyperlink to another website. Good for showing another website in words.
+
+	Attributes: href
+	
+	Example:<a href="https://cornhub.pw>"> A website</a>
+			
+	
+
+
+
+<h1>: Header tag, makes the text large and puts it on a seperate line. Good for making titles.
+
+	Attributes: None
+	
+	Example:<h1>Warcuz Moo</h1>
+
+
+
+<h2>: Header tag, makes the text large and puts it on a seperate line. The higher the number 
+the smaller the text
+
+	Attributes: None
+	
+	Example:<h2>I like</h2>
+
+
+
+
+<img>: A at allow  show a image on your website
+
+	Attributes: src
+	
+	Example: <img src="peppa pig.jpg"></img>
+
+
+
+
+
+
+<li>:  A tag that makes a list of points you have made.
+
+	Attributes: None
+	
+	Example:<li>School</li>
+			<li>Drugs</li>
+			<li>Marcus</li>
+
+
+
+
+
+<ol>: A tag that makes your list into a number list. 
+
+	Attributes: None
+	
+	Example: <ol>
+			<li>what ever</li>
+			<li>what ever</li>
+			<li>what ever</li>
+			</ol>
+
+
+
+
+<p>: A tag that allows you to make a paragraph.
+
+	Attributes: None
+	
+	Example: <p>Hi my name is Warcuz Moo. </p> 
+
+
+
+
+
+<ul>: A tag that makes your list into a bullet point form.
+
+
+	Attributes: None
+	
+	Example:<ul>
+			<li>what ever</li>
+			<li>what ever</li>
+			<li>what ever</li>
+			</ul>
+			
+			
+			
+<html>: Marks the begining and end of your html code.
+	
+	
+	Attributes: None
+	
+	Example:<html>
+			<head>
+			<title> First Website </title>
+			</head>
+			</html>
+			
+			
+<!DOCTYPE>: Selects the version of html, the html attribute means the most recent version
+
+	Attributes: html
+
+	Example: <!DOCTYPE html>
+	
+	
+<body>: Marks the begining and end of your html code
+	
+	Attributes: none
+	
+	Example:<body>
+			<p>
+			Hi my name is Warcuz Moo. I really like peppa pig . In fact IM IN LOVE WITH HER! 
+			Peppa pig has a beutiful pink skin the best of its kind. The 2 eyes on one side ah... so sexy.
+			If you saw the front side face you'll instantly fall in love.
+			</p> 
+			</body>
+
+
+
+<head>: things for your browser to think about when looking at your webpage.
+	
+	Attributes: None
+	
+	Example: <head>
+			<title> First Website </title>
+			</head>
+
+
+
+<title>: controls the tab name.
+
+	Attributes: None
+	
+	Example: <title> First Website </title>
+
+
